@@ -7,7 +7,7 @@ Pewlett Hackard, a large company with thousands of employees, is looking toward 
 
 ---
 ## Results
- The following table and chart compare the number retirement-eligible emplooyees to the mentorship-eligible employees by job title. 
+ The following table and chart compare the number retirement-eligible employees to the mentorship-eligible employees by job title. 
  
  
  ![ compare_retire_mentor_titles]( compare_retire_mentor_titles.png)
@@ -23,9 +23,9 @@ Pewlett Hackard, a large company with thousands of employees, is looking toward 
 
 ---
 ## Summary 
-1.	Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-o	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-o	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The "silver tsunami" will consist of a projected **72,459** employees born between January 1, 1952, and December 31, 1955, meaning Pewlett-Hackard can expect to hire more than 70,000 new employees in a less than five-year period. Even if every employee born between January 1, 1965, and December 31, 1965 (**1,549** employees) fulfills a mentor role for the new hires, the number of new hires will overwhelm the qualified, retirement-ready employees. 
+In order to mentor the next generation. 
+
 
 
 
