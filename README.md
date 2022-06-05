@@ -25,7 +25,9 @@ Pewlett Hackard, a large company with thousands of employees, is looking toward 
 ## Summary 
 The "silver tsunami" will consist of a projected **72,459** employees born between January 1, 1952, and December 31, 1955, meaning Pewlett-Hackard can expect to hire more than 70,000 new employees in a less than five-year period. Even if every employee born between January 1, 1965, and December 31, 1965 (**1,549** employees) fulfills a mentor role for the new hires, the number of new hires will overwhelm the qualified, retirement-ready employees. 
 
-In order to mentor the next generation. 
+In order to mentor the next generation, Pewlett-Hackard should consider expanding mentor requirements. Additional queries to consider:
+* Would expanding the mentor requirements from 1 year to 3 years or 5 years be able to match at least 10% of retiring employees? 
+* Rather than age or in addition to age, should Pewlett Hackard consider years of experience in the given job title as requirement for mentorship? 
 
 
 
