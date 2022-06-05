@@ -8,10 +8,10 @@ Pewlett Hackard, a large company with thousands of employees, is looking toward 
 ---
 ## Results
  Major Takeaways 
-*There are **72,459** retirement-eligible (born between January 1, 1952 and December 31, 1955) employees. 
-*Senior Engineer and Senior Staff represent approximately 70% (50,842 positions) of the future hiring needs. 
-*There are **1,549** mentorship-eligible (born between January 1, 1965 and December 31, 1965) employees.
-* Each mentorship-eligible employee would need to average 47 mentees to account for every new hire needed to return the workforce to scale.
+* There are **72,459** retirement-eligible (born between January 1, 1952 and December 31, 1955) employees. 
+* Senior Engineer and Senior Staff represent approximately 70% (50,842 positions) of the future hiring needs. 
+* There are **1,549** mentorship-eligible (born between January 1, 1965 and December 31, 1965) employees.
+* Given the current mentorship-eligibility requirements, each mentor-eligible employee would need to average 47 mentees to account for every new hire needed to return the workforce to scale.
 
 ![ compare_retire_mentor_titles]( compare_retire_mentor_titles.png)
 
