@@ -10,16 +10,13 @@ Pewlett Hackard, a large company with thousands of employees, is looking toward 
 
 ![ compare_retire_mentor_titles]( compare_retire_mentor_titles.png)
 
-![compare_retire_mentor_table](compare_retire_mentor_table/png)
+![compare_retire_mentor_table](compare_retire_mentor_table.png)
 
 Based on the line graph above, I had the following takeways about theather campaigns:
 *There are **499,996** retirement-eligible (born between January 1, 1952 and December 31, 1955) employees. 
 
 *There are **1,549** mentorship-eligible (born between January 1, 1965 and December 31, 1965) employees.
 
-![ compare_retire_mentor_titles]( compare_retire_mentor_titles.png)
-
-![compare_retire_mentor_table](compare_retire_mentor_table/png)
 
 * In every month there were more successful than failed campagins. Generally, the successful and failed trend lines create the same shape and are similar to each other with the exception of May, October, and December. In May, the larger than average gap between successful and failed campaigns suggests a better chance for success. In October, the smaller than average gap between successful and failed campaigns suggests a better chance for failure. 
 
