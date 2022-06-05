@@ -7,21 +7,19 @@ Pewlett Hackard, a large company with thousands of employees, is looking toward 
 
 ---
 ## Results
+ The following table and chart compare the number retirement-eligible emplooyees to the mentorship-eligible employees by job title. 
+ 
+ 
+ ![ compare_retire_mentor_titles]( compare_retire_mentor_titles.png)
+ 
+
+![compare_retire_mentor_table](compare_retire_mentor_table.png)
+ 
  Major Takeaways 
 * There are **72,459** retirement-eligible (born between January 1, 1952 and December 31, 1955) employees. 
 * Senior Engineer and Senior Staff represent approximately 70% (50,842 positions) of the future hiring needs. 
 * There are **1,549** mentorship-eligible (born between January 1, 1965 and December 31, 1965) employees.
 * Given the current mentorship-eligibility requirements, each mentor-eligible employee would need to average 47 mentees to account for every new hire needed to return the workforce to scale.
-
-![ compare_retire_mentor_titles]( compare_retire_mentor_titles.png)
-
-![compare_retire_mentor_table](compare_retire_mentor_table.png)
-
-
-
-* In every month there were more successful than failed campagins. Generally, the successful and failed trend lines create the same shape and are similar to each other with the exception of May, October, and December. In May, the larger than average gap between successful and failed campaigns suggests a better chance for success. In October, the smaller than average gap between successful and failed campaigns suggests a better chance for failure. 
-
-
 
 ---
 ## Summary 
