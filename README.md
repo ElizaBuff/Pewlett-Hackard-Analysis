@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 ## Overview of Project
 ### Purpose of Project
-In this project, I demonstrated my proficiency with various features in SQL including: entity relationship diagrams (ERDs), creating new tables with into statements, exporting a CSV file, filtering queries, using join, on(), and order by clause, and using aliases. To accomplish these goals, I was given a fictional situation and data set of six CSV files. 
+In this project, I demonstrated my proficiency with various features in SQL including: entity relationship diagrams (ERDs), creating new tables with into statements, exporting a CSV file, filtering queries, using join, on(), order by, and using aliases. To accomplish these goals, I was given a fictional situation and data set of six CSV files. 
 ### Background of Project
 Pewlett Hackard, a large company with thousands of employees, is looking toward the future in two ways: (1) offering a retirement package for those who meet certain criteria and (2) identifying which positions will need to be filled in the near future. The objective of this project is to determine the number of retiring employees per title, identify employees who are eligible to participate in a mentorship program, and a written a summary analysis report to prepare Pewlett Hackard for the “silver tsunami” as many current employees reach retirement age.
 
